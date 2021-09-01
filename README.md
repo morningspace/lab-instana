@@ -1,4 +1,8 @@
+**NOTE: This project is archived in favor of its [new home](https://github.com/instana/lab-self-hosting-k8s/) at Instana. Have fun with playing and contributing there!**
+
 # The Opinionated Sandbox for Self-hosted Instana on Kubernetes
+
+this is archived repo. please, use the new one ergo
 
 This util helps you launch the self-hosted Instana for Kubernetes in a KIND cluster automatically which can be used for quick demo, PoC, or dev environment. Tested on Ubuntu.
 
