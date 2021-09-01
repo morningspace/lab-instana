@@ -1,4 +1,4 @@
-**NOTE: This project is archived in favor of its [new home](https://github.com/instana/lab-self-hosting-k8s/) at Instana. Have fun with playing and contributing there!**
+**NOTE:This project is archived in favor of its [new home](https://github.com/instana/lab-self-hosting-k8s/) at Instana. Have fun with playing and contributing there!**
 
 # The Opinionated Sandbox for Self-hosted Instana on Kubernetes
 
